@@ -14,12 +14,14 @@
   core:
     telemetryConsent: "no"
   editor:
-    fontSize: 20
+    fontSize: 18
   "exception-reporting":
     userId: "7a87c821-25e3-9099-022a-91d4a1b0c1be"
   "git-plus":
     general:
       _analyticsUserId: "dbd5fef5-7af9-4a92-bdcc-c73cc3108628"
+  linter:
+    errorPanelHeight: 70
   "neon-cursor":
     cursorType: "box"
   pigments:
