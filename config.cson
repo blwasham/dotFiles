@@ -20,6 +20,8 @@
   "git-plus":
     general:
       _analyticsUserId: "dbd5fef5-7af9-4a92-bdcc-c73cc3108628"
+  "file-icons":
+    onChanges: true
   linter:
     errorPanelHeight: 70
   "neon-cursor":
