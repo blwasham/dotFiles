@@ -5,6 +5,7 @@ atom-beautify@0.29.17
 atom-jasmine@0.8.1
 atom-like-brackets-editor@1.1.4
 atom-shortcuts@0.0.2
+file-icons@2.1.7
 git-plus@7.0.7
 jshint@1.8.6
 last-cursor-position@0.9.0
