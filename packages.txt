@@ -1,13 +1,13 @@
 angularjs@0.4.0
-atom-beautify@0.30.5
+atom-beautify@0.30.6
 atom-jasmine@0.8.1
 atom-like-brackets-editor@1.2.0
 atom-shortcuts@0.0.2
 atom-typescript@11.0.1
 busy-signal@1.4.3
 dash-syntax@0.4.1
-dash-ui@0.4.3
-file-icons@2.1.13
+dash-ui@0.4.4
+file-icons@2.1.14
 git-plus@7.10.0
 intentions@1.1.5
 jshint@1.8.6
@@ -16,5 +16,5 @@ linter@2.2.0
 linter-ui-default@1.6.8
 pigments@0.39.1
 platformio-ide-terminal@2.7.0
-prettier-atom@0.40.0
+prettier-atom@0.41.0
 split-diff@1.5.1
