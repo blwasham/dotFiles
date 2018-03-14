@@ -9,7 +9,21 @@ atom-text-editor::shadow  .bracket-matcher .region {
   box-shadow: 0 0 0 0;
 }
 
-.icon[data-name$="spec.js"]:before{
-    font-family: file-icons;
-    content: "\ea3a";
+.icon[data-name$='spec.js']:before {
+  font-family: file-icons;
+  content: '\ea3a';
+}
+
+.tab-bar {
+  padding: 10px 0;
+  .tab {
+    font-size: 1.2em;
+    font-weight: bold;
+
+    &.active {
+      .title {
+        font-size: 1.2em;
+      }
+    }
+  }
 }
